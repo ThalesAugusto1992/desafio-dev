@@ -14,7 +14,9 @@
 Os dados para acesso ao banco pela aplicação ficam no arquivo application.properties
 
 spring.datasource.url=URL_DE_CONEXAO
+
 spring.datasource.username=USUARIO_BANCO
+
 spring.datasource.password=SENHA_USUARIO_BANCO
 
 Por default já deixei os dados para acesso local. Se atende a alterar o usuario e senha de acordo com seu ambiente;
